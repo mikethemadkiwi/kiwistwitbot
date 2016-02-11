@@ -1,3 +1,3 @@
 # kiwistwitbot
 
-she runs... just copypasta
+Not much to say here, just copy/pasta, fill in the auth deets and change the masg to how you want them.  voila...
