@@ -1,7 +1,7 @@
 var TwitterBot = require("node-twitterbot").TwitterBot;
 // Include your access information below
 var Bot = new TwitterBot({
-  "consumer_secret": "",
+  "consumer_secret": "", //add your details for the wtwitter user here...
   "consumer_key": "",
   "access_token": "",
   "access_token_secret": ""
