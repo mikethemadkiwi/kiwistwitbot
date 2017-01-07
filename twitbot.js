@@ -11,17 +11,14 @@ var msgs = [];
 msgs.push('Project Awesome Gameservers! http://whatisprojectawesome.com  #whatisprojectawesome');
 msgs.push('Want somewhere you can game AND meet new friends? http://whatisprojectawesome.com  #whatisprojectawesome');
 msgs.push('Project Awesome! Minecraft Minigames and More! http://whatisprojectawesome.com  #whatisprojectawesome');
-msgs.push('Want a private Server to play on? We do those too!! http://whatisprojectawesome.com  #whatisprojectawesome');
 msgs.push('Public Creative Starmade Server? We got that!! http://whatisprojectawesome.com  #whatisprojectawesome');
 msgs.push('Enjoy Gaming, but not know anyone online?? http://whatisprojectawesome.com  #whatisprojectawesome');
 msgs.push('Terraria your thing? We got that!! http://whatisprojectawesome.com  #whatisprojectawesome');
 msgs.push('Starbound anyone? http://whatisprojectawesome.com  #whatisprojectawesome');
 msgs.push('Project Awesome Servers, We have a Wow Guild! http://whatisprojectawesome.com  #whatisprojectawesome');
 msgs.push('Project Awesome Tshirts are Available: http://www.cafepress.ca/projectawesomeservers  #whatisprojectawesome');
-msgs.push('Want a private Server to play on? We do those too!! http://whatisprojectawesome.com  #whatisprojectawesome');
 msgs.push('Bored? Wanna Chat? Play a game with someone? http://whatisprojectawesome.com  #whatisprojectawesome');
 msgs.push('Youtube boring you? http://whatisprojectawesome.com  #whatisprojectawesome');
-msgs.push('Want a private Server to play on? We do those too!! http://whatisprojectawesome.com  #whatisprojectawesome');
 var currentpos = function () {
     pos++;
     if (pos >= msgs.length) {
